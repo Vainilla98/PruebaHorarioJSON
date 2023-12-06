@@ -1,0 +1,149 @@
+{
+    "horario": [
+        {
+            "dia": "Lunes",
+            "modulos": [
+                {
+                    "nombre" : "SSII",
+                    "hora":"08:30"
+                },
+                {
+                    "nombre" : "SSII",
+                    "hora":"09:25"
+                },
+                {
+                    "nombre" : "SSII",
+                    "hora":"10:20"
+                },
+                {
+                    "nombre" : "LMSGI",
+                    "hora":"11:45"
+                },
+                {
+                    "nombre" : "LMSGI",
+                    "hora":"12:40"
+                },
+                {
+                    "nombre" : "FOL",
+                    "hora":"13:35"
+                }
+            ]
+        },
+        {
+            "dia": "Martes",
+            "modulos": [
+                {
+                    "nombre" : "PROG",
+                    "hora":"08:30"
+                },
+                {
+                    "nombre" : "PROG",
+                    "hora":"09:25"
+                },
+                {
+                    "nombre" : "BDD",
+                    "hora":"10:20"
+                },
+                {
+                    "nombre" : "BDD",
+                    "hora":"11:45"
+                },
+                {
+                    "nombre" : "ENDES",
+                    "hora":"12:40"
+                },
+                {
+                    "nombre" : "ENDES",
+                    "hora":"13:35"
+                }
+            ]
+        },
+        { 
+            "dia": "Miercoles", 
+            "modulos" : [
+                {
+                    "nombre" : "FOL",
+                    "hora":"08:30"
+                },
+                {
+                    "nombre" : "FOL",
+                    "hora":"09:25"
+                },
+                {
+                    "nombre" : "PROG",
+                    "hora":"10:20"
+                },
+                {
+                    "nombre" : "PROG",
+                    "hora":"11:45"
+                },
+                {
+                    "nombre" : "BDD",
+                    "hora":"12:40"
+                },
+                {
+                    "nombre" : "BDD",
+                    "hora":"13:35"
+                }
+            ]
+        },
+        { 
+            "dia": "Jueves", 
+            "modulos" : [
+                {
+                    "nombre" : "ING",
+                    "hora":"08:30"
+                },
+                {
+                    "nombre" : "ING",
+                    "hora":"09:25"
+                },
+                {
+                    "nombre" : "PROG",
+                    "hora":"10:20"
+                },
+                {
+                    "nombre" : "PROG",
+                    "hora":"11:45"
+                },
+                {
+                    "nombre" : "LMSGI",
+                    "hora":"12:40"
+                },
+                {
+                    "nombre" : "LMSGI",
+                    "hora":"13:35"
+                }
+            ]
+        },
+        {
+            "dia": "Viernes", 
+            "modulos" : [
+                {
+                    "nombre" : "BDD",
+                    "hora":"08:30"
+                },
+                {
+                    "nombre" : "BDD",
+                    "hora":"09:25"
+                },
+                {
+                    "nombre" : "ENDES",
+                    "hora":"10:20"
+                },
+                {
+                    "nombre" : "SSII",
+                    "hora":"11:45"
+                },
+                {
+                    "nombre" : "SSII",
+                    "hora":"12:40"
+                },
+                {
+                    "nombre" : "SSII",
+                    "hora":"13:35"
+                }
+            ]
+        }
+    ]
+}
